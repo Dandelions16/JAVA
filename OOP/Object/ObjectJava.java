@@ -1,5 +1,3 @@
-package com.OOP.Object;
-
 // Object
 // Dalam paradigma OOP, objek merupakan instance atau wujud nyata dari suatu kelas. 
 // Pemahaman mengenai objek tidak kalah pentingnya pada konsep pemrograman berorientasi objek. 
@@ -13,6 +11,4 @@ package com.OOP.Object;
 // 1.) Declaration : mendeklarasikan nama sebuah objek.
 // 2.) Instantiation : memerlukan sebuah perintah new untuk menciptakan objek.
 // 3.) Initialization : inisialisasi dari sebuah objek setelah perintah new.
-public class ObjectJava {
-  
-}
+
