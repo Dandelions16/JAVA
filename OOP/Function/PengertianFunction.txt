@@ -1,0 +1,4 @@
+Function
+Fungsi pada Java dideklarasikan di dalam sebuah kelas. Fungsi pada Java bertugas untuk mengembalikan nilai. Sedangkan untuk fungsi yang tidak mengembalikan nilai (void) disebut sebagai prosedur. 
+Baik fungsi maupun prosedur di dalam suatu kelas kita sebut sebagai metode. Metode merupakan aspek yang penting di dalam Java. 
+Dalam sebuah kelas bisa terdapat banyak metode sesuai dengan kegunaannya masing-masing.
